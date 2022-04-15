@@ -1,2 +1,4 @@
 [0211/095323.743:ERROR:process_info.cc(359)] UncheckedAllocate
 [0211/095323.757:ERROR:process_info.cc(359)] UncheckedAllocate
+[0405/102934.407:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[0414/105254.244:ERROR:registration_protocol_win.cc(103)] CreateFile: The system cannot find the file specified. (0x2)
